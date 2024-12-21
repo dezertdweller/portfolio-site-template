@@ -8,6 +8,14 @@ This repository provides a customizable template for creating a personal portfol
 - `config.yml`: Configuration file for setting up the appropriate theme and layout.
 - `/assets`: A folder containing images and CSS files for the portfolio site.
 
+## Portfolio Demo
+
+Here's a preview of what your portfolio site could look like:
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O5AHrNsNdrs?si=8x2yjWAhR8Y378u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## How to Use This Template 
 
 ### Step 1: Clone the Repository
