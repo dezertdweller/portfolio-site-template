@@ -12,9 +12,10 @@ This repository provides a customizable template for creating a personal portfol
 
 Here's a preview of what your portfolio site could look like:
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/O5AHrNsNdrs?si=8x2yjWAhR8Y378u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5AHrNsNdrs" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## How to Use This Template 
 
